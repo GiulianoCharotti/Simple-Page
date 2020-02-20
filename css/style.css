@@ -1,0 +1,15 @@
+td { 
+  text-align: center;
+}
+
+.textoF{
+  clear: both;
+}
+
+#borderB{
+  border-bottom: 1px solid black;
+}
+
+#text{
+  text-indent: 2rem;
+}
